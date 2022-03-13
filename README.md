@@ -4,4 +4,4 @@ Each user can log in and add their favourite restaurants to the list
 You can use these two users for testing
 frank@qq.com     pw: 123456   with own data
 uu@qq.com         pw: 123456    with empty data
-My Apk path      \MyRestaurantApp\app\build\intermediates\apk\debug
+
