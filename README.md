@@ -5,3 +5,6 @@ You can use these two users for testing
 frank@qq.com     pw: 123456   with own data
 uu@qq.com         pw: 123456    with empty data
 
+![Local Image](./pic/pic1.png)
+![Local Image](./pic/pic2.png)
+![Local Image](./pic/pic3.png)
